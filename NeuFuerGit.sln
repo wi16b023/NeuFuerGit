@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuFuerGit", "NeuFuerGit\NeuFuerGit.csproj", "{BB2BAD20-8390-41AE-8453-B3D40EBB152B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB2BAD20-8390-41AE-8453-B3D40EBB152B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2BAD20-8390-41AE-8453-B3D40EBB152B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2BAD20-8390-41AE-8453-B3D40EBB152B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2BAD20-8390-41AE-8453-B3D40EBB152B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DB75B5C-FEE1-4C4C-AF79-3DD1435178B0}
+	EndGlobalSection
+EndGlobal
