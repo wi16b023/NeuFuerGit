@@ -13,5 +13,10 @@ namespace NeuFuerGit
             //Change in Master
             //BranchA
         }
+
+        private void ChangeInMaster()
+        {
+
+        }
     }
 }
