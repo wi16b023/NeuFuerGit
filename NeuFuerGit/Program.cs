@@ -12,5 +12,10 @@ namespace NeuFuerGit
         {
             //Change in Master
         }
+
+        private void ChangeInMaster()
+        {
+
+        }
     }
 }
